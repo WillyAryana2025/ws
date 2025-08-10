@@ -1,0 +1,1524 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js
+File Name: D:\WILLY\WCODE\memonika.com\ajax\libs\xlsx\0.17.0\xlsx.full.min.js
+Content Type: application/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor-pro/assets/css/conditionals/transitions.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor-pro\assets\css\conditionals\transitions.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor-pro/assets/css/widget-gallery.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor-pro\assets\css\widget-gallery.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/animations/styles/zoomIn.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\animations\styles\zoomIn.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.36.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.36.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.36.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.36.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.36.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.36.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.28.4
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.5.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/css/country-code-style.min.css?ver=2.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\css\country-code-style.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/intl-tel-input/css/intlTelInput.min.css?ver=2.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\intl-tel-input\css\intlTelInput.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/intl-tel-input/img/flags.png?1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\intl-tel-input\img\flags.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/intl-tel-input/img/flags@2x.png?1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\intl-tel-input\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/intl-tel-input/img/globe.png
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\intl-tel-input\img\globe.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/intl-tel-input/img/globe@2x.png
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\intl-tel-input\img\globe@2x.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/intl-tel-input/js/intlTelInput.js?ver=2.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\intl-tel-input\js\intlTelInput.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/js/country-code-script.js?ver=2.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\js\country-code-script.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/addons/js/logic_frontend.js?ver=2.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\addons\js\logic_frontend.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/extensions-for-elementor-form/assets/css/style.min.css?ver=2.4.5
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\extensions-for-elementor-form\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/facebook-conversion-pixel/pixel-cat.min.js?ver=3.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\facebook-conversion-pixel\pixel-cat.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/facebook-conversion-pixel/video.js?m=1752507984
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\facebook-conversion-pixel\video.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/cui_style.css?ver=1.0.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\cui_style.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/fonts/cuifont.eot?i08r8g
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\fonts\cuifont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/fonts/cuifont.svg?i08r8g
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\fonts\cuifont.svg
+Content Type: image/svg+xml
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/fonts/cuifont.ttf?i08r8g
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\fonts\cuifont.ttf
+Content Type: font/ttf
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/css/fonts/cuifont.woff?i08r8g
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\css\fonts\cuifont.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/cui_script.js?ver=1.0.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\cui_script.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/autosize.min.js?ver=1.14
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\autosize.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/jquery.jPages.min.js?ver=0.7
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\jquery.jPages.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/jquery.placeholder.min.js?ver=2.0.7
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\jquery.placeholder.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/addons/comment-kit2/js/libs/jquery.textareaCounter.js?ver=2.0
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\addons\comment-kit2\js\libs\jquery.textareaCounter.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?m=1752547806
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/css/guest-book.css?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\css\guest-book.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/css/modules/bdt-uikit.css?ver=3.15.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\css\modules\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/css/modules/ep-helper.css?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\css\modules\ep-helper.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/css/new-icon.min.css?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\css\new-icon.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\css\wdp.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/font/font-v2.woff
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\font\font-v2.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/font/font.woff
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\font\font.woff
+Content Type: font/woff
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\exad-scripts.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/guest-form.js?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\guest-form.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/license.min.js?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\license.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/modules/bdt-uikit.js?ver=3.15.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\modules\bdt-uikit.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/qr-code.js?m=1752547806
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\qr-code.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js?m=1752547806
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\wdp-swiper.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver=3.2.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\plugins\weddingpress\assets\js\wdp.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.0.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.0.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/themes/hello-elementor/style.min.css?ver=3.0.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/themes/hello-elementor/theme.min.css?ver=3.0.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2-1024x318.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-1024x318.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2-300x93.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-300x93.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2-768x238.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-768x238.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2.png?strip=all&lossy=1&w=216&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2.png?strip=all&lossy=1&w=433&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2.png?strip=all&lossy=1&w=649&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-3.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/09/logo-bcapng-32645-2.png?strip=all&lossy=1&w=866&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\09\logo-bcapng-32645-2-4.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/cropped-Logo-Memonika.png?strip=all&lossy=1&resize=180%2C180&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\cropped-Logo-Memonika-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/cropped-Logo-Memonika.png?strip=all&lossy=1&resize=192%2C192&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\cropped-Logo-Memonika-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/cropped-Logo-Memonika.png?strip=all&lossy=1&resize=32%2C32&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\cropped-Logo-Memonika.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat-150x150.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat-150x150.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat-300x300.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat-300x300.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat-768x768.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat-768x768.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat.png?strip=all&lossy=1&w=200&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat.png?strip=all&lossy=1&w=400&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2023/12/Logo-Memonika-bulat.png?strip=all&lossy=1&w=600&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2023\12\Logo-Memonika-bulat-3.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/07/iconmandiri.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\07\iconmandiri.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/07/iconmandiri.png?strip=all&lossy=1&w=68&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\07\iconmandiri-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet-150x150.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet-150x150.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet-300x300.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet-300x300.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet-768x768.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet-768x768.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet.png?strip=all&lossy=1&w=200&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet.png?strip=all&lossy=1&w=400&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Bouquet.png?strip=all&lossy=1&w=600&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Bouquet-3.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-1-250x300.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-1-250x300.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-1.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-1.png?strip=all&lossy=1&w=100&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-1-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-1.png?strip=all&lossy=1&w=200&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-1-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-1.png?strip=all&lossy=1&w=300&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-1-3.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-1.png?strip=all&lossy=1&w=400&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-1-4.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-2-250x300.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-2-250x300.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-2.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-2.png?strip=all&lossy=1&w=100&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-2-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-2.png?strip=all&lossy=1&w=200&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-2-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-2.png?strip=all&lossy=1&w=300&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-2-3.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2024/10/Garden-05-Couple-2.png?strip=all&lossy=1&w=400&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2024\10\Garden-05-Couple-2-4.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7181.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7181.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7208-e1752553007663.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7208-e1752553007663.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7252.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7252.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7285.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7285.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1-1024x683.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1-1536x1024.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1-300x200.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1-768x512.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1.jpg?strip=all&lossy=1&w=1080&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1.jpg?strip=all&lossy=1&w=1440&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7335-1.jpg?strip=all&lossy=1&w=360&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7335-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7402.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7402.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7424.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7424.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/IMG_7440.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\IMG_7440.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/02/Wedding-Nasheed-Muhammad-Al-Muqit-1.mp3
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\02\Wedding-Nasheed-Muhammad-Al-Muqit-1.mp3
+Content Type: audio/mpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru-1024x693.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru-1024x693.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru-1536x1040.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru-1536x1040.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru-300x203.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru-300x203.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru-768x520.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru-768x520.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru.png?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru.png?strip=all&lossy=1&w=1152&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru-2.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Masjid-Biru.png?strip=all&lossy=1&w=384&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Masjid-Biru-1.png
+Content Type: image/png
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/PANEL-2.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\PANEL-2.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/2025/03/Peace-3.jpg?strip=all&lossy=1&ssl=1
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\2025\03\Peace-3.jpg
+Content Type: image/jpeg
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/css/post-21472.css?ver=1752581455
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\css\post-21472.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/css/post-6.css?ver=1752554673
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/alexbrush.css?ver=1752508728
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\alexbrush.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/alice.css?ver=1752508869
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\alice.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/amiri.css?ver=1752508722
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\amiri.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/caudex.css?ver=1752510350
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\caudex.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/cormorantinfant.css?ver=1752508728
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\cormorantinfant.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/lora.css?ver=1752508725
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\lora.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/opensans.css?ver=1752508737
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\opensans.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/pinyonscript.css?ver=1752508721
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\pinyonscript.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1752508730
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\poppins.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1752508720
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1752508721
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/css/urbanist.css?ver=1752508738
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\css\urbanist.css
+Content Type: text/css
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alexbrush-szc83fzrjkuqfbwmkk6ehurz7qto.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alexbrush-szc83fzrjkuqfbwmkk6ehurz7qto.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alexbrush-szc83fzrjkuqfbwmkk6ehuvz7qto.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alexbrush-szc83fzrjkuqfbwmkk6ehuvz7qto.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alexbrush-szc83fzrjkuqfbwmkk6ehuxz7q.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alexbrush-szc83fzrjkuqfbwmkk6ehuxz7q.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alice-opncnoeemtha6gcarg7shw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alice-opncnoeemtha6gcarg7shw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alice-opncnoeemtha6gcdrg7shw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alice-opncnoeemtha6gcdrg7shw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alice-opncnoeemtha6gckrg7shw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alice-opncnoeemtha6gckrg7shw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/alice-opncnoeemtha6gcorg4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\alice-opncnoeemtha6gcorg4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7aanpd8cgxbhpurjao9_pjqhwaa.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7aanpd8cgxbhpurjao9_pjqhwaa.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7aanpd8cgxbhpurjao9_plqhwaa.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7aanpd8cgxbhpurjao9_plqhwaa.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7aanpd8cgxbhpurjao9_pxqhw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7aanpd8cgxbhpurjao9_pxqhw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7acnpd8cgxbhp2vkay6zp5ygw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7acnpd8cgxbhp2vkay6zp5ygw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7acnpd8cgxbhp2vkayxzp5ygw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7acnpd8cgxbhp2vkayxzp5ygw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7acnpd8cgxbhp2vkay_zp4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7acnpd8cgxbhp2vkay_zp4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7afnpd8cgxbhpurhl8y66nl.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7afnpd8cgxbhpurhl8y66nl.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7afnpd8cgxbhpurhley6w.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7afnpd8cgxbhpurhley6w.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7afnpd8cgxbhpurhlqy66nl.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7afnpd8cgxbhpurhlqy66nl.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7arnpd8cgxbhpugtlma7w.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7arnpd8cgxbhpugtlma7w.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7arnpd8cgxbhpurtlma7w.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7arnpd8cgxbhpurtlma7w.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/amiri-j7arnpd8cgxbhpuutlm.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\amiri-j7arnpd8cgxbhpuutlm.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdq311qop6bjur4-fkbrb4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdq311qop6bjur4-fkbrb4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdq311qop6bjur4wfkbrb4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdq311qop6bjur4wfkbrb4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdq311qop6bjur4wvkbrb4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdq311qop6bjur4wvkbrb4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdq311qop6bjur4w_kbrb4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdq311qop6bjur4w_kbrb4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdq311qop6bjur4zfkb.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdq311qop6bjur4zfkb.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdq311qop6bjur4zvkbrb4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdq311qop6bjur4zvkbrb4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esds311qop6bjur4ymk3tbo-ew.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esds311qop6bjur4ymk3tbo-ew.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esds311qop6bjur4ymkatbo-ew.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esds311qop6bjur4ymkatbo-ew.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esds311qop6bjur4ymkdtbo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esds311qop6bjur4ymkdtbo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esds311qop6bjur4ymkmtbo-ew.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esds311qop6bjur4ymkmtbo-ew.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esds311qop6bjur4ymkntbo-ew.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esds311qop6bjur4ymkntbo-ew.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esds311qop6bjur4ymkptbo-ew.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esds311qop6bjur4ymkptbo-ew.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdt311qop6bjurwdteukp8d.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdt311qop6bjurwdteukp8d.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdt311qop6bjurwdteukz8dkpe.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdt311qop6bjurwdteukz8dkpe.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdt311qop6bjurwdteunj8dkpe.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdt311qop6bjurwdteunj8dkpe.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdt311qop6bjurwdteunp8dkpe.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdt311qop6bjurwdteunp8dkpe.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdt311qop6bjurwdteunz8dkpe.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdt311qop6bjurwdteunz8dkpe.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdt311qop6bjurwdteupp8dkpe.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdt311qop6bjurwdteupp8dkpe.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdv311qop6bjur4ymo4kk81mpwegq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdv311qop6bjur4ymo4kk81mpwegq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdv311qop6bjur4ymo4kk8bmpu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdv311qop6bjur4ymo4kk8bmpu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdv311qop6bjur4ymo4kk8cmpwegq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdv311qop6bjur4ymo4kk8cmpwegq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdv311qop6bjur4ymo4kk8nmpwegq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdv311qop6bjur4ymo4kk8nmpwegq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdv311qop6bjur4ymo4kk8ompwegq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdv311qop6bjur4ymo4kk8ompwegq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/caudex-esdv311qop6bjur4ymo4kk8pmpwegq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\caudex-esdv311qop6bjur4ymo4kk8pmpwegq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhyju44g9vkim1sorysiweasln997_il1bmefq4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhyju44g9vkim1sorysiweasln997_il1bmefq4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhyju44g9vkim1sorysiweasln997_il1hmefq4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhyju44g9vkim1sorysiweasln997_il1hmefq4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhyju44g9vkim1sorysiweasln997_il1rmefq4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhyju44g9vkim1sorysiweasln997_il1rmefq4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhyju44g9vkim1sorysiweasln997_il2xme.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhyju44g9vkim1sorysiweasln997_il2xme.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhyju44g9vkim1sorysiweasln997_il3xmefq4.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhyju44g9vkim1sorysiweasln997_il3xmefq4.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhypu44g9vkim1sorysiweasln997_cv2q.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhypu44g9vkim1sorysiweasln997_cv2q.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhypu44g9vkim1sorysiweasln997_gv2qsa.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhypu44g9vkim1sorysiweasln997_gv2qsa.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhypu44g9vkim1sorysiweasln997_kv2qsa.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhypu44g9vkim1sorysiweasln997_kv2qsa.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhypu44g9vkim1sorysiweasln997_mv2qsa.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhypu44g9vkim1sorysiweasln997_mv2qsa.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/cormorantinfant-hhypu44g9vkim1sorysiweasln997_ov2qsa.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\cormorantinfant-hhypu44g9vkim1sorysiweasln997_ov2qsa.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_liftl.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_liftl.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_ljftlp_a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_ljftlp_a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_llptlp_a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_llptlp_a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_llvtlp_a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_llvtlp_a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_ll_tlp_a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_ll_tlp_a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_lt_tlp_a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_lt_tlp_a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qihmx1d_joumw_lxftlp_a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qihmx1d_joumw_lxftlp_a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joum2t7i-np.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joum2t7i-np.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joum3b7i-np.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joum3b7i-np.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joumw77i-np.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joumw77i-np.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joumwf7i-np.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joumwf7i-np.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joumwr7iw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joumwr7iw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joumwt7i-np.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joumwt7i-np.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/lora-0qivmx1d_joumwx7i-np.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\lora-0qivmx1d_joumwx7i-np.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqw106f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqw106f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwt06f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwt06f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwte6f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwte6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtk6f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtk6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtu6f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwtu6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwu06f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwu06f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuk6f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuk6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuu6f.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwuu6f.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwvu6f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwvu6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwxu6f15m.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memtyags126mizpba-ufuicvxscekx2cmqvxlwqwxu6f15m.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts-muw.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts-muw.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts2mu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovts2mu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtscmu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtscmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsgmu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsgmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtskmu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtskmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsomu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsomu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsumu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsumu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsymu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtsymu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtugmu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtugmu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtvomu1ab.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\opensans-memvyags126mizpba-uvwbx2vvnxbbobj2ovtvomu1ab.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/pinyonscript-6xkpdsjbl9-e9luoeqidrqr8woraorbh.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\pinyonscript-6xkpdsjbl9-e9luoeqidrqr8woraorbh.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/pinyonscript-6xkpdsjbl9-e9luoeqidrqr8wovaorbh.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\pinyonscript-6xkpdsjbl9-e9luoeqidrqr8wovaorbh.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/pinyonscript-6xkpdsjbl9-e9luoeqidrqr8woxaog.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\pinyonscript-6xkpdsjbl9-e9luoeqidrqr8woxaog.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tdmpkzsq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tdmpkzsq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z11lfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z11lfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vfteoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vfteoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjbecmne.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjbecmne.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjfecg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjfecg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjnecmne.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjnecmne.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjluchta.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjluchta.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjlucxtakpy.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjlucxtakpy.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptuchta.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptuchta.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptucxtakpy.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptucxtakpy.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/urbanist-l0x-df02ifml4hgcymqlbs0.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\urbanist-l0x-df02ifml4hgcymqlbs0.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/urbanist-l0x-df02ifml4hgcymqrbs10ig.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\urbanist-l0x-df02ifml4hgcymqrbs10ig.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/urbanist-l0x4df02ifml4hgcymqgxs9sjg.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\urbanist-l0x4df02ifml4hgcymqgxs9sjg.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-content/uploads/elementor/google-fonts/fonts/urbanist-l0x4df02ifml4hgcymqgxsfsjkk3.woff2
+File Name: D:\WILLY\WCODE\memonika.com\wp-content\uploads\elementor\google-fonts\fonts\urbanist-l0x4df02ifml4hgcymqgxsfsjkk3.woff2
+Content Type: font/woff2
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/dist/element.min.js?ver=a4eeeadd23c0d7ab1d2d
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\dist\element.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/dist/escape-html.min.js?ver=6561a406d2d232a6fbd2
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\dist\escape-html.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.3.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://eqqnnsenjif.exactdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: D:\WILLY\WCODE\memonika.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: https://lottie.host/e60b7c88-176f-4e3d-ad2c-2fbe152f0e78/XcDfgjeozZ.json
+File Name: D:\WILLY\WCODE\memonika.com\e60b7c88-176f-4e3d-ad2c-2fbe152f0e78\XcDfgjeozZ.json
+Content Type: application/json
+
+Uri: https://memonika.com/comments/feed/
+File Name: D:\WILLY\WCODE\memonika.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://memonika.com/feed/
+File Name: D:\WILLY\WCODE\memonika.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://memonika.com/islamic-peace/
+File Name: D:\WILLY\WCODE\memonika.com\islamic-peace\index-1.htm
+Content Type: text/html
+
+Uri: https://memonika.com/islamic-peace/?fbclid=PAQ0xDSwL8acVleHRuA2FlbQIxMAABp_X1PV76rSDS5yBUP1S7VPwxrLw-eWsBN-PwD57YLU2wy-uTz7I6znJNPXmT_aem_mwwBzHTmyIE_tbLWqu5w_Q
+File Name: D:\WILLY\WCODE\memonika.com\islamic-peace\index.htm
+Content Type: text/html
+
+Uri: https://memonika.com/islamic-peace/?post_id=21472&comments=0&get=150&order=DESC
+File Name: D:\WILLY\WCODE\memonika.com\islamic-peace\index-2.htm
+Content Type: text/html
+
+Uri: https://memonika.com/islamic-peace/feed/
+File Name: D:\WILLY\WCODE\memonika.com\islamic-peace\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://memonika.com/wp-json/
+File Name: D:\WILLY\WCODE\memonika.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://memonika.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmemonika.com%2Fislamic-peace%2F
+File Name: D:\WILLY\WCODE\memonika.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://memonika.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmemonika.com%2Fislamic-peace%2F&format=xml
+File Name: D:\WILLY\WCODE\memonika.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://memonika.com/wp-json/wp/v2/pages/21472
+File Name: D:\WILLY\WCODE\memonika.com\wp-json\wp\v2\pages\21472
+Content Type: application/json
+
+Uri: https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs
+File Name: D:\WILLY\WCODE\memonika.com\@dotlottie\player-component@2.7.12\dist\dotlottie-player.mjs
+Content Type: text/javascript
+
+Uri: https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js
+File Name: D:\WILLY\WCODE\memonika.com\qr-code-styling@1.5.0\lib\qr-code-styling.js
+Content Type: text/javascript
+
