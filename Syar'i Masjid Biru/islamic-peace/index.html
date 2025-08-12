@@ -4841,7 +4841,7 @@
                                   class="cui-link cui-icon-link cui-icon-link-true auto-load-true"
                                   href="index-2.htm?post_id=21472&amp;comments=0&amp;get=150&amp;order=DESC"
                                   title="0 Comments"
-                                  ><span>0</span> Comments</a
+                                  ><span></span></a
                                 >
                               </div>
                             </div>
@@ -4861,16 +4861,16 @@
                                     class="cui_comment_count_card_wrap"
                                   >
                                     <div class="cui_comment_count_card_row_2">
-                                      <div
+                                      <!-- <div
                                         class="cui_comment_count_card cui_card-hadir"
                                       >
                                         <span>0</span><span>Hadir</span>
-                                      </div>
-                                      <div
+                                      </div> -->
+                                      <!-- <div
                                         class="cui_comment_count_card cui_card-tidak_hadir"
                                       >
                                         <span>0</span><span>Tidak hadir</span>
-                                      </div>
+                                      </div> -->
                                     </div>
                                   </div>
                                 </div>
@@ -4884,196 +4884,129 @@
                                       class="respond cui-clearfix"
                                     >
                                       <!-- Form Spreadsheet -->
-                                      <form
-                                        action="https://memonika.com/wp-comments-post.php"
-                                        method="post"
-                                        id="commentform-21472"
-                                      >
-                                        <p
-                                          class="comment-form-author cui-field-1"
-                                        >
-                                          <input
-                                            id="author"
-                                            name="author"
-                                            type="text"
-                                            aria-required="true"
-                                            class="cui-input"
-                                            placeholder="Nama"
-                                          /><span class="cui-required">*</span
-                                          ><span
-                                            class="cui-error-info cui-error-info-name"
-                                            >Mohon maaf! Khusus untuk tamu
-                                            undangan</span
-                                          >
-                                        </p>
-                                        <div class="cui-wrap-textarea">
-                                          <textarea
-                                            id="cui-textarea-21472"
-                                            class="waci_comment cui-textarea autosize-textarea"
-                                            name="comment"
-                                            aria-required="true"
-                                            placeholder="Ucapan"
-                                            rows="2"
-                                          ></textarea
-                                          ><span class="cui-required">*</span
-                                          ><span
-                                            class="cui-error-info cui-error-info-text"
-                                            >2 characters minimum.</span
-                                          >
-                                        </div>
-                                        <div class="nm-wrap-comments">
-                                          <div class="row"></div>
-                                        </div>
-                                        <div
-                                          class="cui-clearfix cui-wrap-select cui-field-wrap cui-select-attending"
-                                        >
-                                          <select
-                                            class="waci_comment cui-select"
-                                            name="konfirmasi"
-                                            id="konfirmasi"
-                                          >
-                                            <option
-                                              value=""
-                                              disabled=""
-                                              selected=""
-                                            >
-                                              Konfirmasi Kehadiran
-                                            </option>
-                                            <option value="Hadir">
-                                              Datang
-                                            </option>
-                                            <option value="Tidak hadir">
-                                              Absen
-                                            </option></select
-                                          ><span class="cui-required"></span
-                                          ><span
-                                            class="cui-error-info cui-error-info-confirm"
-                                          ></span>
-                                        </div>
-                                        <div
-                                          class="cui-wrap-submit cui-clearfix"
-                                        >
-                                          <p class="form-submit">
-                                            <span class="cui-hide"
-                                              >Do not change these fields
-                                              following</span
-                                            ><input
-                                              type="text"
-                                              class="cui-hide"
-                                              name="name"
-                                              value="username"
-                                            /><input
-                                              type="text"
-                                              class="cui-hide"
-                                              name="nombre"
-                                              value=""
-                                            /><input
-                                              type="text"
-                                              class="cui-hide"
-                                              name="form-cui"
-                                              value=""
-                                            /><input
-                                              type="button"
-                                              class="cui-form-btn cui-cancel-btn"
-                                              value="Cancel"
-                                            /><input
-                                              name="submit"
-                                              id="submit-21472"
-                                              value="Kirim"
-                                              type="submit"
-                                            /><input
-                                              type="hidden"
-                                              name="commentpress"
-                                              value="true"
-                                            /><input
-                                              type="hidden"
-                                              name="comment_post_ID"
-                                              value="21472"
-                                              id="comment_post_ID"
-                                            />
-                                            <input
-                                              type="hidden"
-                                              name="comment_parent"
-                                              id="comment_parent"
-                                              value="0"
-                                            />
-                                          </p>
-                                        </div>
-                                      </form>
-                                    </div>
-                                  </div>
-                                  <!--.cui-container-form-->
-                                </div>
-                                <!--.cui-clearfix cui-relative-->
-                              </div>
-                              <!--.cui-wrap-form-->
-                              <div
-                                id="cui-comment-status-21472"
-                                class="cui-comment-status"
-                              ></div>
-                              <div id="cui-box" class="cui-box">
-                                <ul
-                                  id="cui-container-comment-21472"
-                                  class="cui-container-comments cui-order-DESC"
-                                  data-order="DESC"
-                                ></ul>
-                              </div>
-                              <div
-                                id="cui-holder-id-21472"
-                                class="cui-holder-21472 cui-holder"
-                              ></div>
-                            </div>
-                            <!--.cui-wrap-comments-->
-                          </div>
-                          <!--.cui-wrapper-->
-                          <style>
-                            .cui-wrapper .cui-holder {
-                              display: block !important;
-                            }
-                          </style>
+           <!-- ...existing code... -->
+<!-- Form Spreadsheet -->
+<form id="commentform-21472">
+  <input id="author" name="author" type="text" placeholder="Tulis Nama Anda (wajib)" required />
+  <textarea id="cui-textarea-21472" name="comment" placeholder="Tulis Doa atau Ucapan di sini (wajib)" required></textarea>
+  <select name="konfirmasi" id="konfirmasi" required>
+    <option value="">Pilih Kehadiran</option>
+    <option value="Hadir">Hadir</option>
+    <option value="Tidak Hadir">Tidak Hadir</option>
+    <option value="Masih Ragu">Masih Ragu</option>
+  </select>
+  <input name="submit" id="submit-21472" value="Kirim" type="submit" />
+</form>
+<!-- ...existing code... -->
+<div id="thankyou-message" style="display:none;color:green;text-align:center;font-weight:bold;">
+  Terima kasih sudah bersedia mengisi ucapan & konfirmasi kehadiran!
+</div>
 
-                          <script>
-                            var txt =
-                              document.getElementById(
-                                "cui-link-21472"
-                              ).innerHTML;
-                            var pos = txt.replace(/Comments/g, "Comments");
-                            document.getElementById(
-                              "cui-link-21472"
-                            ).innerHTML = pos;
+<!-- Statistik Kehadiran -->
+<div id="stat-kehadiran" style="margin:10px 0; text-align:center;">
+  <span id="count-hadir" style="color:green;font-weight:bold;">0</span> Hadir |
+  <span id="count-tidak" style="color:red;font-weight:bold;">0</span> Tidak Hadir |
+  <span id="count-ragu" style="color:orange;font-weight:bold;">0</span> Masih Ragu
+</div>
 
-                            var txt1 = document.getElementById(
-                              "invitation-count-21472"
-                            ).innerHTML;
-                            var pos1 = txt1
-                              .replace(/Hadir/g, "Hadir")
-                              .replace(/Tidak hadir/g, "Tidak Hadir")
-                              .replace(/Masih Ragu/g, "Masih Ragu");
-                            document.getElementById(
-                              "invitation-count-21472"
-                            ).innerHTML = pos1;
+<!-- Tombol tampilkan komentar -->
+<div style="text-align:center;">
+  <button id="show-comments-btn" type="button">Tampilkan Ucapan</button>
+</div>
+<ul id="comments-list" style="display:none;max-width:400px;margin:10px auto 0;padding:0;list-style:none;"></ul>
 
-                            var txt2 =
-                              document.getElementById(
-                                "commentform-21472"
-                              ).innerHTML;
-                            var pos2 = txt2
-                              .replace(/Nama/g, "Nama")
-                              .replace(/Ucapan/g, "Ucapan")
-                              .replace(
-                                /Konfirmasi Kehadiran/g,
-                                "Konfirmasi Kehadiran"
-                              )
-                              .replace(/Datang/g, "Hadir")
-                              .replace(/Absen/g, "Tidak Hadir")
-                              .replace(/Mungkin/g, "Masih Ragu")
-                              .replace(/Kirim/g, "Kirim");
-                            document.getElementById(
-                              "commentform-21472"
-                            ).innerHTML = pos2;
-                          </script>
-                        </div>
-                      </div>
+<script>
+// Ganti URL berikut dengan URL Google Apps Script Anda
+const scriptURL = 'https://script.google.com/macros/s/AKfycbxrtaksRkPcWUizEyOM8qR8MutgyfMJwQ5ABqEU42TONlW3s501xoD-71QyrWI5uLMn/exec';
+
+// Submit form
+document.getElementById('commentform-21472').addEventListener('submit', function(e) {
+  e.preventDefault();
+
+  var nama = document.getElementById('author').value.trim();
+  var ucapan = document.getElementById('cui-textarea-21472').value.trim();
+  var kehadiran = document.getElementById('konfirmasi').value;
+
+  if (!nama) {
+    alert('Nama wajib diisi!');
+    document.getElementById('author').focus();
+    return;
+  }
+  if (!ucapan) {
+    alert('Ucapan/Doa wajib diisi!');
+    document.getElementById('cui-textarea-21472').focus();
+    return;
+  }
+  if (!kehadiran) {
+    alert('Silakan pilih konfirmasi kehadiran!');
+    document.getElementById('konfirmasi').focus();
+    return;
+  }
+
+  // Disable tombol submit agar tidak double klik
+  document.getElementById('submit-21472').disabled = true;
+
+  fetch(scriptURL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ nama, ucapan, kehadiran })
+  }).then(function() {
+    // Reset form, tampilkan pesan terima kasih
+    document.getElementById('commentform-21472').reset();
+    document.getElementById('commentform-21472').style.display = 'none';
+    document.getElementById('thankyou-message').style.display = 'block';
+    // Refresh komentar dan statistik setelah 1 detik (beri waktu data masuk ke sheet)
+    setTimeout(function() {
+      loadComments();
+      document.getElementById('submit-21472').disabled = false;
+      document.getElementById('commentform-21472').style.display = 'block';
+      document.getElementById('thankyou-message').style.display = 'none';
+    }, 1500);
+  }).catch(function() {
+    alert('Gagal mengirim ucapan. Coba lagi.');
+    document.getElementById('submit-21472').disabled = false;
+  });
+});
+
+// Tampilkan/sembunyikan komentar
+document.getElementById('show-comments-btn').addEventListener('click', function() {
+  var list = document.getElementById('comments-list');
+  if (list.style.display === 'none') {
+    loadComments();
+    list.style.display = 'block';
+    this.textContent = 'Sembunyikan Ucapan';
+  } else {
+    list.style.display = 'none';
+    this.textContent = 'Tampilkan Ucapan';
+  }
+});
+
+// Ambil dan tampilkan komentar dari Google Apps Script
+function loadComments() {
+  fetch(scriptURL)
+    .then(res => res.json())
+    .then(data => {
+      let hadir = 0, tidak = 0, ragu = 0;
+      let html = '';
+      data.reverse().forEach(row => {
+        if (row.kehadiran === 'Hadir') hadir++;
+        else if (row.kehadiran === 'Tidak Hadir') tidak++;
+        else if (row.kehadiran === 'Masih Ragu') ragu++;
+        html += `<li style="border-bottom:1px solid #eee;padding:8px 0;">
+          <b>${row.nama}</b> <span style="font-size:12px;color:#888;">(${row.kehadiran})</span><br>
+          <span>${row.ucapan}</span>
+        </li>`;
+      });
+      document.getElementById('comments-list').innerHTML = html || '<li>Belum ada ucapan.</li>';
+      document.getElementById('count-hadir').textContent = hadir;
+      document.getElementById('count-tidak').textContent = tidak;
+      document.getElementById('count-ragu').textContent = ragu;
+    });
+}
+
+// Otomatis load statistik saat halaman dibuka
+loadComments();
+</script>
                       <div
                         class="elementor-element elementor-element-1ed46726 elementor-widget elementor-widget-spacer"
                         data-id="1ed46726"
