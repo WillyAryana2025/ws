@@ -4886,7 +4886,7 @@
                                       <!-- Form Spreadsheet -->
            <!-- ...existing code... -->
 <!-- Form Spreadsheet -->
-<form id="commentform-21472">
+<form id="commentform-21472" onsubmit="return false;">
   <input id="author" name="author" type="text" placeholder="Tulis Nama Anda (wajib)" required />
   <textarea id="cui-textarea-21472" name="comment" placeholder="Tulis Doa atau Ucapan di sini (wajib)" required></textarea>
   <select name="konfirmasi" id="konfirmasi" required>
@@ -4895,7 +4895,7 @@
     <option value="Tidak Hadir">Tidak Hadir</option>
     <option value="Masih Ragu">Masih Ragu</option>
   </select>
-  <input name="submit" id="submit-21472" value="Kirim" type="submit" />
+  <button type="button" id="submit-btn-21472" style="width: 100%; padding: 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Kirim</button>
 </form>
 <!-- ...existing code... -->
 <div id="thankyou-message" style="display:none;color:green;text-align:center;font-weight:bold;">
@@ -4916,96 +4916,133 @@
 <ul id="comments-list" style="display:none;max-width:400px;margin:10px auto 0;padding:0;list-style:none;"></ul>
 
 <script>
-// Ganti URL berikut dengan URL Google Apps Script Anda
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzoedrYYcPsi9dTy2pN5DgYbIv4FCRM6zmopgVhqYdTpjbaHgIgVlMXxIlzEbWJ8QkW/exec';
+document.addEventListener("DOMContentLoaded", function() {
+    // Ganti URL berikut dengan URL Google Apps Script Anda
+    const scriptURL_new = 'https://script.google.com/macros/s/AKfycbzSt7ppX3Db4a2EryUT5aO_yZ7AhkK-0LzfZ-DDgvSblVHVfJH9mwxWsT9jzLGTHzad/exec';
+    const submitButtonNew = document.getElementById('submit-btn-21472');
+    const commentFormNew = document.getElementById('commentform-21472');
+    const thankyouMessageNew = document.getElementById('thankyou-message');
 
-// Submit form
-document.getElementById('commentform-21472').addEventListener('submit', function(e) {
-  e.preventDefault();
+    if (submitButtonNew) {
+        submitButtonNew.addEventListener('click', function(e) {
+            const nama = document.getElementById('author').value.trim();
+            const ucapan = document.getElementById('cui-textarea-21472').value.trim();
+            const kehadiran = document.getElementById('konfirmasi').value;
 
-  var nama = document.getElementById('author').value.trim();
-  var ucapan = document.getElementById('cui-textarea-21472').value.trim();
-  var kehadiran = document.getElementById('konfirmasi').value;
+            if (!nama) {
+                alert('Nama wajib diisi!');
+                document.getElementById('author').focus();
+                return;
+            }
+            if (!ucapan) {
+                alert('Ucapan/Doa wajib diisi!');
+                document.getElementById('cui-textarea-21472').focus();
+                return;
+            }
+            if (!kehadiran) {
+                alert('Silakan pilih konfirmasi kehadiran!');
+                document.getElementById('konfirmasi').focus();
+                return;
+            }
 
-  if (!nama) {
-    alert('Nama wajib diisi!');
-    document.getElementById('author').focus();
-    return;
-  }
-  if (!ucapan) {
-    alert('Ucapan/Doa wajib diisi!');
-    document.getElementById('cui-textarea-21472').focus();
-    return;
-  }
-  if (!kehadiran) {
-    alert('Silakan pilih konfirmasi kehadiran!');
-    document.getElementById('konfirmasi').focus();
-    return;
-  }
+            submitButtonNew.disabled = true;
+            submitButtonNew.textContent = "Mengirim...";
 
-  // Disable tombol submit agar tidak double klik
-  document.getElementById('submit-21472').disabled = true;
+            const formData = new FormData();
+            formData.append('nama', nama);
+            formData.append('ucapan', ucapan);
+            formData.append('kehadiran', kehadiran);
 
-  fetch(scriptURL, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ nama, ucapan, kehadiran })
-  }).then(function() {
-    // Reset form, tampilkan pesan terima kasih
-    document.getElementById('commentform-21472').reset();
-    document.getElementById('commentform-21472').style.display = 'none';
-    document.getElementById('thankyou-message').style.display = 'block';
-    // Refresh komentar dan statistik setelah 1 detik (beri waktu data masuk ke sheet)
-    setTimeout(function() {
-      loadComments();
-      document.getElementById('submit-21472').disabled = false;
-      document.getElementById('commentform-21472').style.display = 'block';
-      document.getElementById('thankyou-message').style.display = 'none';
-    }, 1500);
-  }).catch(function() {
-    alert('Gagal mengirim ucapan. Coba lagi.');
-    document.getElementById('submit-21472').disabled = false;
-  });
+            fetch(scriptURL_new, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.result === 'success') {
+                    commentFormNew.reset();
+                    commentFormNew.style.display = 'none';
+                    thankyouMessageNew.style.display = 'block';
+                    setTimeout(function() {
+                        loadCommentsNew();
+                        submitButtonNew.disabled = false;
+                        submitButtonNew.textContent = "Kirim";
+                        commentFormNew.style.display = 'block';
+                        thankyouMessageNew.style.display = 'none';
+                    }, 1500);
+                } else {
+                    throw new Error(data.message || 'Unknown error');
+                }
+            })
+            .catch(function(error) {
+                alert('Gagal mengirim ucapan. Coba lagi. Error: ' + error.message);
+                submitButtonNew.disabled = false;
+                submitButtonNew.textContent = "Kirim";
+            });
+        });
+    }
+
+    const showCommentsBtn = document.getElementById('show-comments-btn');
+    if (showCommentsBtn) {
+        showCommentsBtn.addEventListener('click', function() {
+            var list = document.getElementById('comments-list');
+            if (list.style.display === 'none') {
+                loadCommentsNew();
+                list.style.display = 'block';
+                this.textContent = 'Sembunyikan Ucapan';
+            } else {
+                list.style.display = 'none';
+                this.textContent = 'Tampilkan Ucapan';
+            }
+        });
+    }
+
+    function loadCommentsNew() {
+        fetch(scriptURL_new)
+            .then(res => res.json())
+            .then(data => {
+                let hadir = 0,
+                    tidak = 0,
+                    ragu = 0;
+                let html = '';
+                if (Array.isArray(data)) {
+                    data.reverse().forEach(row => {
+                        if (row.kehadiran === 'Hadir') hadir++;
+                        else if (row.kehadiran === 'Tidak Hadir') tidak++;
+                        else if (row.kehadiran === 'Masih Ragu') ragu++;
+                        html += `<li style="border-bottom:1px solid #eee;padding:8px 0;">
+                    <b>${row.nama}</b> <span style="font-size:12px;color:#888;">(${row.kehadiran})</span><br>
+                    <span>${row.ucapan}</span>
+                  </li>`;
+                    });
+                }
+                const commentsList = document.getElementById('comments-list');
+                if (commentsList) {
+                    commentsList.innerHTML = html || '<li>Belum ada ucapan.</li>';
+                }
+                const countHadir = document.getElementById('count-hadir');
+                if(countHadir) {
+                  countHadir.textContent = hadir;
+                }
+                const countTidak = document.getElementById('count-tidak');
+                if(countTidak) {
+                  countTidak.textContent = tidak;
+                }
+                const countRagu = document.getElementById('count-ragu');
+                if(countRagu) {
+                  countRagu.textContent = ragu;
+                }
+            })
+            .catch(err => {
+                console.error('Error loading comments:', err);
+                const commentsList = document.getElementById('comments-list');
+                if (commentsList) {
+                    commentsList.innerHTML = '<li>Gagal memuat ucapan.</li>';
+                }
+            });
+    }
+    loadCommentsNew();
 });
-
-// Tampilkan/sembunyikan komentar
-document.getElementById('show-comments-btn').addEventListener('click', function() {
-  var list = document.getElementById('comments-list');
-  if (list.style.display === 'none') {
-    loadComments();
-    list.style.display = 'block';
-    this.textContent = 'Sembunyikan Ucapan';
-  } else {
-    list.style.display = 'none';
-    this.textContent = 'Tampilkan Ucapan';
-  }
-});
-
-// Ambil dan tampilkan komentar dari Google Apps Script
-function loadComments() {
-  fetch(scriptURL)
-    .then(res => res.json())
-    .then(data => {
-      let hadir = 0, tidak = 0, ragu = 0;
-      let html = '';
-      data.reverse().forEach(row => {
-        if (row.kehadiran === 'Hadir') hadir++;
-        else if (row.kehadiran === 'Tidak Hadir') tidak++;
-        else if (row.kehadiran === 'Masih Ragu') ragu++;
-        html += `<li style="border-bottom:1px solid #eee;padding:8px 0;">
-          <b>${row.nama}</b> <span style="font-size:12px;color:#888;">(${row.kehadiran})</span><br>
-          <span>${row.ucapan}</span>
-        </li>`;
-      });
-      document.getElementById('comments-list').innerHTML = html || '<li>Belum ada ucapan.</li>';
-      document.getElementById('count-hadir').textContent = hadir;
-      document.getElementById('count-tidak').textContent = tidak;
-      document.getElementById('count-ragu').textContent = ragu;
-    });
-}
-
-// Otomatis load statistik saat halaman dibuka
-loadComments();
 </script>
                       <div
                         class="elementor-element elementor-element-1ed46726 elementor-widget elementor-widget-spacer"
