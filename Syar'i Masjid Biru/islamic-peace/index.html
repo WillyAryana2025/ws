@@ -5088,6 +5088,20 @@ document.addEventListener("DOMContentLoaded", function() {
                           </div>
                         </div>
                       </div>
+                      <div class="elementor-element elementor-element-checkin-btn-wrapper elementor-align-center elementor-widget" style="margin-bottom: 30px;">
+                          <div class="elementor-widget-container">
+                              <div class="elementor-button-wrapper">
+                                  <a id="open-checkin-card-btn" class="elementor-button elementor-button-link elementor-size-sm" href="#" role="button" style="background-color: #607A53; border-radius: 25px;">
+                                      <span class="elementor-button-content-wrapper">
+                                          <span class="elementor-button-icon">
+                                              <i aria-hidden="true" class="fas fa-qrcode"></i>
+                                          </span>
+                                          <span class="elementor-button-text">Lihat Kartu Check-in</span>
+                                      </span>
+                                  </a>
+                              </div>
+                          </div>
+                      </div>
                       <div
                         class="elementor-element elementor-element-3785ec4c reveal elementor-widget elementor-widget-heading"
                         data-id="3785ec4c"
@@ -6232,5 +6246,225 @@ document.addEventListener("DOMContentLoaded", function() {
       src="../wp-content/plugins/weddingpress/assets/js/guest-form.js?ver=3.2.1.1"
       id="kirim-kit-js"
     ></script>
+
+    <!-- KODE KARTU CHECK-IN (VERSI RAPI) -->
+    <style>
+      /* General Modal Styling */
+      .checkin-card-modal {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: rgba(0, 0, 0, 0.85);
+        z-index: 99999;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 15px;
+        box-sizing: border-box;
+        font-family: 'Poppins', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      }
+      .checkin-card-modal .container {
+        width: 100%;
+        max-width: 384px;
+      }
+      .checkin-card-modal .invitation-card {
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      }
+      /* Header */
+      .checkin-card-modal .header {
+        background: linear-gradient(to right, #607A53, #7a9a6e);
+        padding: 12px 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        color: white;
+      }
+      .checkin-card-modal .header-left { display: flex; align-items: center; gap: 8px; }
+      .checkin-card-modal .header-icon { width: 16px; height: 16px; background: rgba(255, 255, 255, 0.2); border-radius: 2px; display: flex; align-items: center; justify-content: center; }
+      .checkin-card-modal .icon-dot { width: 8px; height: 8px; background: white; border-radius: 50%; }
+      .checkin-card-modal .header-text { font-weight: 500; font-size: 14px; }
+      .checkin-card-modal .close-btn { background: none; border: none; color: rgba(255, 255, 255, 0.8); cursor: pointer; padding: 4px; border-radius: 4px; transition: color 0.2s; }
+      .checkin-card-modal .close-btn:hover { color: white; }
+      .checkin-card-modal .close-btn svg { display: block; }
+      /* Photo Section */
+      .checkin-card-modal .photo-section { position: relative; }
+      .checkin-card-modal .wedding-photo { width: 100%; height: 200px; object-fit: cover; display: block; }
+      .checkin-card-modal .photo-overlay { position: absolute; bottom: 16px; left: 16px; color: white; text-shadow: 1px 1px 3px rgba(0,0,0,0.5); }
+      .checkin-card-modal .wedding-subtitle { font-size: 14px; opacity: 0.9; margin: 0 0 4px 0; }
+      .checkin-card-modal .wedding-title { font-size: 32px; font-weight: bold; font-family: 'Alex Brush', cursive; margin: 0; }
+      /* Content */
+      .checkin-card-modal .content { padding: 16px; }
+      .checkin-card-modal .event-details { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 24px; }
+      .checkin-card-modal .calendar-icon { background: #607A53; padding: 8px; border-radius: 8px; flex-shrink: 0; color: white; }
+      .checkin-card-modal .calendar-icon svg { display: block; }
+      .checkin-card-modal .event-info p { margin: 0; }
+      .checkin-card-modal .event-date { font-weight: 500; color: #1f2937; margin-bottom: 4px; }
+      .checkin-card-modal .event-time { font-size: 14px; color: #6b7280; }
+      /* QR Section */
+      .checkin-card-modal .qr-section { display: flex; align-items: flex-start; gap: 16px; margin-bottom: 24px; }
+      .checkin-card-modal .guest-info { flex: 1; }
+      .checkin-card-modal .guest-info p { margin: 0; }
+      .checkin-card-modal .guest-label { font-size: 14px; color: #6b7280; margin-bottom: 4px; }
+      .checkin-card-modal .guest-name { color: #607A53; font-weight: 500; font-size: 18px; margin: 8px 0 !important; }
+      .checkin-card-modal .guest-location { font-size: 14px; color: #6b7280; margin-top: 8px !important; }
+      .checkin-card-modal .qr-code { width: 120px; height: 120px; background: white; border: 2px solid #e5e7eb; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; padding: 4px; }
+      .checkin-card-modal #qrCodeContainerCheckin { display: flex; align-items: center; justify-content: center; }
+      /* Instructions & Button */
+      .checkin-card-modal .instructions { font-size: 12px; color: #6b7280; line-height: 1.5; margin: 0 0 16px 0; text-align: center; }
+      .checkin-card-modal .download-btn { width: 100%; background: #607A53; color: white; border: none; padding: 12px; border-radius: 8px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: background-color 0.2s; text-decoration: none; }
+      .checkin-card-modal .download-btn:hover { background: #4a6041; }
+      .checkin-card-modal .download-btn svg { margin-right: 8px; }
+      /* Footer */
+      .checkin-card-modal .footer { text-align: center; margin-top: 16px; padding-top: 16px; border-top: 1px solid #f3f4f6; }
+      .checkin-card-modal .footer p { font-size: 12px; color: #9ca3af; margin: 0; }
+      .checkin-card-modal .brand { font-weight: 500; }
+    </style>
+
+    <div id="checkin-modal" class="checkin-card-modal" style="display:none;">
+        <div class="container" id="checkin-card-content">
+            <div class="invitation-card">
+                <div class="header">
+                    <div class="header-left">
+                        <div class="header-icon"><div class="icon-dot"></div></div>
+                        <span class="header-text">CHECK-IN</span>
+                    </div>
+                    <button class="close-btn">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                    </button>
+                </div>
+                <!-- ganti foto kartu check in -->
+                <div class="photo-section">
+                    <img src="https://i.pinimg.com/736x/5d/e7/5f/5de75fc02177e3093d6775eb98a566f2.jpg" alt="Willy & Sisi" class="wedding-photo">
+                    <div class="photo-overlay">
+                        <p class="wedding-subtitle">The Wedding Of</p>
+                        <h1 class="wedding-title">Willy & Sisi</h1>
+                    </div>
+                </div>
+                <div class="content">
+                    <div class="event-details">
+                        <div class="calendar-icon">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
+                        </div>
+                        <div class="event-info">
+                            <p class="event-date">Sabtu, 17 Januari 2026</p>
+                            <p class="event-time">08.00 WIB - Selesai</p>
+                        </div>
+                    </div>
+                    <div class="qr-section">
+                        <div class="guest-info">
+                            <p class="guest-label">Kepada Yth:</p>
+                            <p class="guest-name" id="guestNameCheckin">Nama Tamu</p>
+                            <p class="guest-location">di Tempat</p>
+                        </div>
+                        <div class="qr-code">
+                            <div id="qrCodeContainerCheckin"></div>
+                        </div>
+                    </div>
+                    <p class="instructions">Mohon tunjukkan QR Code ini kepada petugas di lokasi acara untuk mencatat kehadiran.</p>
+                    <button class="download-btn">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7,10 12,15 17,10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                        Download e-Invitation
+                    </button>
+                    <div class="footer">
+                        <p>Made with ❤️ by <span class="brand">Willy Aryana CEO PT Teknologi Solusindo</span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const openBtn = document.getElementById('open-checkin-card-btn');
+        const checkinModal = document.getElementById('checkin-modal');
+        const closeBtn = document.querySelector('#checkin-modal .close-btn');
+        const downloadBtn = document.querySelector('#checkin-modal .download-btn');
+        const cardContent = document.getElementById('checkin-card-content');
+        const qrCodeContainer = document.getElementById("qrCodeContainerCheckin");
+
+        const openModal = (e) => {
+            if (e) e.preventDefault();
+            if (checkinModal) {
+                updateGuestName();
+                checkinModal.style.display = 'flex';
+            }
+        };
+
+        const closeModal = () => {
+            if (checkinModal) checkinModal.style.display = 'none';
+        };
+
+        if (openBtn) openBtn.addEventListener('click', openModal);
+        if (closeBtn) closeBtn.addEventListener('click', closeModal);
+        if (checkinModal) {
+            checkinModal.addEventListener('click', (e) => {
+                if (e.target === checkinModal) closeModal();
+            });
+        }
+
+        function getGuestNameFromUrl() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const guestName = urlParams.get("to") || urlParams.get("nama") || urlParams.get("name") || "Tamu Undangan";
+            return decodeURIComponent(guestName).replace(/\+/g, ' ');
+        }
+
+        function generateQRCode(guestName) {
+            if (qrCodeContainer && typeof QRCodeStyling !== 'undefined') {
+                qrCodeContainer.innerHTML = ''; // Hapus QR code sebelumnya
+                const qrData = `WEDDING_CHECKIN:${JSON.stringify({
+                    event: "Wedding Willy & Sisi",
+                    date: "17 Januari 2026",
+                    guest: guestName,
+                    timestamp: Date.now(),
+                })}`;
+                
+                const qrCode = new QRCodeStyling({
+                    width: 110,
+                    height: 110,
+                    data: qrData,
+                    dotsOptions: { color: "#2c1810", type: "rounded" },
+                    backgroundOptions: { color: "#ffffff" },
+                    cornersSquareOptions: { type: "extra-rounded" },
+                    imageOptions: { crossOrigin: "anonymous", margin: 2 }
+                });
+
+                qrCode.append(qrCodeContainer);
+            } else {
+                if(qrCodeContainer) qrCodeContainer.innerHTML = 'Gagal memuat QR Code.';
+                console.error('QRCodeStyling library not loaded or container not found.');
+            }
+        }
+
+        function updateGuestName() {
+            const guestName = getGuestNameFromUrl();
+            const guestNameEl = document.getElementById("guestNameCheckin");
+            if (guestNameEl) {
+                guestNameEl.textContent = guestName;
+            }
+            generateQRCode(guestName);
+        }
+
+        if (downloadBtn) {
+            downloadBtn.addEventListener('click', function() {
+                if (cardContent && typeof html2canvas !== 'undefined') {
+                    html2canvas(cardContent.querySelector('.invitation-card'), { useCORS: true, scale: 2 })
+                        .then(canvas => {
+                            const guestName = getGuestNameFromUrl();
+                            const link = document.createElement('a');
+                            link.download = `e-Invitation - ${guestName}.png`;
+                            link.href = canvas.toDataURL('image/png');
+                            link.click();
+                        });
+                }
+            });
+        }
+    });
+    </script>
   </body>
 </html>
