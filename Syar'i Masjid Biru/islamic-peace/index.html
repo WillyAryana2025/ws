@@ -2183,7 +2183,7 @@
                                   <p
                                     class="elementor-heading-title elementor-size-default"
                                   >
-                                    Willy Aryana S.Kom
+                                    Willy Aryana, S.Kom.
                                   </p>
                                 </div>
                               </div>
@@ -2468,7 +2468,7 @@
                                   <p
                                     class="elementor-heading-title elementor-size-default"
                                   >
-                                    Sisi Febria Agami S.Pd.
+                                    Sisi Febria Agami, S.Pd.
                                   </p>
                                 </div>
                               </div>
@@ -5746,58 +5746,7 @@ document.addEventListener("DOMContentLoaded", function() {
         ]
       }
     </script>
-    <script>
-      const wdpAudio = document.body.contains(document.getElementById("song"))
-        ? document.getElementById("song")
-        : false;
-      document.addEventListener("visibilitychange", (event) => {
-        if (document.visibilityState === "visible") {
-          wdpAudio && wdpAudio.play();
-        } else {
-          wdpAudio && wdpAudio.pause();
-        }
-      });
-    </script>
-    <script>
-      const lazyloadRunObserver = () => {
-        const lazyloadBackgrounds = document.querySelectorAll(
-          `.e-con.e-parent:not(.e-lazyloaded)`
-        );
-        const lazyloadBackgroundObserver = new IntersectionObserver(
-          (entries) => {
-            entries.forEach((entry) => {
-              if (entry.isIntersecting) {
-                let lazyloadBackground = entry.target;
-                if (lazyloadBackground) {
-                  lazyloadBackground.classList.add("e-lazyloaded");
-                }
-                lazyloadBackgroundObserver.unobserve(entry.target);
-              }
-            });
-          },
-          { rootMargin: "200px 0px 200px 0px" }
-        );
-        lazyloadBackgrounds.forEach((lazyloadBackground) => {
-          lazyloadBackgroundObserver.observe(lazyloadBackground);
-        });
-      };
-      const events = ["DOMContentLoaded", "elementor/lazyload/observe"];
-      events.forEach((event) => {
-        document.addEventListener(event, lazyloadRunObserver);
-      });
-    </script>
-    <script>
-      const wdpAudio = document.body.contains(document.getElementById("song"))
-        ? document.getElementById("song")
-        : false;
-      document.addEventListener("visibilitychange", (event) => {
-        if (document.visibilityState === "visible") {
-          wdpAudio && wdpAudio.play();
-        } else {
-          wdpAudio && wdpAudio.pause();
-        }
-      });
-    </script>
+    
     <link
       rel="stylesheet"
       id="ccfef-country-code-library-style-css"
