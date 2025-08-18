@@ -5091,7 +5091,7 @@ document.addEventListener("DOMContentLoaded", function() {
                       <div class="elementor-element elementor-element-checkin-btn-wrapper elementor-align-center elementor-widget" style="margin-bottom: 30px;">
                           <div class="elementor-widget-container">
                               <div class="elementor-button-wrapper">
-                                  <a id="open-checkin-card-btn" class="elementor-button elementor-button-link elementor-size-sm" href="#" role="button" style="background-color: #607A53; border-radius: 25px;">
+                                  <a id="open-checkin-card-btn" class="elementor-button elementor-button-link elementor-size-sm" href="#" role="button" style="background-color: #7ea0c2; border-radius: 25px;">
                                       <span class="elementor-button-content-wrapper">
                                           <span class="elementor-button-icon">
                                               <i aria-hidden="true" class="fas fa-qrcode"></i>
@@ -5287,7 +5287,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                     <!-- link footer -->
                                     <a href=""
                                       >Designed With Love: <br />
-                                      KirimDigi By Willy Aryana</a
+                                      By KirimDigi</a
                                     >
                                   </h2>
                                 </div>
@@ -5303,8 +5303,8 @@ document.addEventListener("DOMContentLoaded", function() {
                                   <h2
                                     class="elementor-heading-title elementor-size-default"
                                   >
-                                    Music by: <br />
-                                    KirimDigi (WS)
+                                    CEO : Willy Aryana<br />
+                                    CO-Founder : Syafiq Abdurahman
                                   </h2>
                                 </div>
                               </div>
@@ -6268,6 +6268,9 @@ document.addEventListener("DOMContentLoaded", function() {
       .checkin-card-modal .container {
         width: 100%;
         max-width: 384px;
+        max-height: 90vh;
+        overflow-y: auto;
+        border-radius: 8px;
       }
       .checkin-card-modal .invitation-card {
         background: white;
@@ -6277,7 +6280,7 @@ document.addEventListener("DOMContentLoaded", function() {
       }
       /* Header */
       .checkin-card-modal .header {
-        background: linear-gradient(to right, #607A53, #7a9a6e);
+        background: linear-gradient(to right, #7ea0c2, #7ea0c2);
         padding: 12px 16px;
         display: flex;
         align-items: center;
@@ -6300,7 +6303,7 @@ document.addEventListener("DOMContentLoaded", function() {
       /* Content */
       .checkin-card-modal .content { padding: 16px; }
       .checkin-card-modal .event-details { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 24px; }
-      .checkin-card-modal .calendar-icon { background: #607A53; padding: 8px; border-radius: 8px; flex-shrink: 0; color: white; }
+      .checkin-card-modal .calendar-icon { background: #7ea0c2; padding: 8px; border-radius: 8px; flex-shrink: 0; color: white; }
       .checkin-card-modal .calendar-icon svg { display: block; }
       .checkin-card-modal .event-info p { margin: 0; }
       .checkin-card-modal .event-date { font-weight: 500; color: #1f2937; margin-bottom: 4px; }
@@ -6310,14 +6313,14 @@ document.addEventListener("DOMContentLoaded", function() {
       .checkin-card-modal .guest-info { flex: 1; }
       .checkin-card-modal .guest-info p { margin: 0; }
       .checkin-card-modal .guest-label { font-size: 14px; color: #6b7280; margin-bottom: 4px; }
-      .checkin-card-modal .guest-name { color: #607A53; font-weight: 500; font-size: 18px; margin: 8px 0 !important; }
+      .checkin-card-modal .guest-name { color: #7ea0c2; font-weight: 500; font-size: 18px; margin: 8px 0 !important; }
       .checkin-card-modal .guest-location { font-size: 14px; color: #6b7280; margin-top: 8px !important; }
       .checkin-card-modal .qr-code { width: 120px; height: 120px; background: white; border: 2px solid #e5e7eb; border-radius: 8px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; padding: 4px; }
       .checkin-card-modal #qrCodeContainerCheckin { display: flex; align-items: center; justify-content: center; }
       /* Instructions & Button */
       .checkin-card-modal .instructions { font-size: 12px; color: #6b7280; line-height: 1.5; margin: 0 0 16px 0; text-align: center; }
-      .checkin-card-modal .download-btn { width: 100%; background: #607A53; color: white; border: none; padding: 12px; border-radius: 8px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: background-color 0.2s; text-decoration: none; }
-      .checkin-card-modal .download-btn:hover { background: #4a6041; }
+      .checkin-card-modal .download-btn { width: 100%; background: #7ea0c2; color: white; border: none; padding: 12px; border-radius: 8px; font-weight: 500; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 8px; transition: background-color 0.2s; text-decoration: none; }
+      .checkin-card-modal .download-btn:hover { background: #7ea0c2; }
       .checkin-card-modal .download-btn svg { margin-right: 8px; }
       /* Footer */
       .checkin-card-modal .footer { text-align: center; margin-top: 16px; padding-top: 16px; border-top: 1px solid #f3f4f6; }
@@ -6371,7 +6374,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         Download e-Invitation
                     </button>
                     <div class="footer">
-                        <p>Made with ❤️ by <span class="brand">Willy Aryana CEO PT Teknologi Solusindo</span></p>
+                        <p>Made with ❤️ by <span class="brand">KirimDigi PT Teknologi Solusindo</span></p>
                     </div>
                 </div>
             </div>
@@ -6407,6 +6410,13 @@ document.addEventListener("DOMContentLoaded", function() {
                 if (e.target === checkinModal) closeModal();
             });
         }
+
+        // Menambahkan event listener untuk tombol Escape
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && checkinModal && checkinModal.style.display === 'flex') {
+                closeModal();
+            }
+        });
 
         function getGuestNameFromUrl() {
             const urlParams = new URLSearchParams(window.location.search);
