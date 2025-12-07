@@ -1260,12 +1260,10 @@
                         data-widget_type="heading.default"
                       >
                         <div class="elementor-widget-container">
-                          <h2 style="font-size: 35px;"
+                          <h2 style="font-size: 30px;"
                             class="elementor-heading-title elementor-size-default"
                           >
-                          <br>
-                          
-                        
+                         
                             The Wedding of
                           </h2>
                         </div>
@@ -1277,7 +1275,7 @@
                         data-widget_type="heading.default"
                       >
                         <div class="elementor-widget-container">
-                          <h2
+                          <h2 style="font-size: 20px;"
                             class="elementor-heading-title elementor-size-default"
                           >
                             WILLY & SISI
@@ -1291,7 +1289,7 @@
                         data-widget_type="heading.default"
                       >
                         <div class="elementor-widget-container">
-                          <h2 style="font-size: 20px;"
+                          <h2 style="font-size: 15px;"
                             class="elementor-heading-title elementor-size-default"
                           >
           
@@ -6423,11 +6421,59 @@ document.addEventListener("DOMContentLoaded", function() {
                             link.download = `e-Invitation - ${guestName}.png`;
                             link.href = canvas.toDataURL('image/png');
                             link.click();
-                        });
+        });
                 }
             });
         }
     });
+    </script>
+
+    <!-- Auto-fill Nama Tamu dari URL Hash Parameter -->
+    <script>
+    (function() {
+        // Fungsi untuk mendapatkan parameter dari hash URL
+        function getHashParam(param) {
+            const hash = window.location.hash.substring(1); // Hapus karakter #
+            const params = new URLSearchParams(hash);
+            const value = params.get(param);
+            if (value) {
+                return decodeURIComponent(value.replace(/\+/g, ' '));
+            }
+            return null;
+        }
+
+        // Fungsi untuk update nama tamu di semua tempat
+        function updateGuestNameFromHash() {
+            const guestName = getHashParam('to');
+            
+            if (guestName) {
+                // Update di info_tamu (cover page)
+                const infoTamuElements = document.getElementsByClassName('info_tamu');
+                if (infoTamuElements.length > 0) {
+                    infoTamuElements[0].innerHTML = guestName;
+                    infoTamuElements[0].style.textAlign = 'center';
+                }
+                
+                // Update di check-in card
+                const guestNameCheckin = document.getElementById('guestNameCheckin');
+                if (guestNameCheckin) {
+                    guestNameCheckin.textContent = guestName;
+                }
+                
+                console.log('Nama tamu dari hash:', guestName);
+            }
+        }
+
+        // Jalankan saat halaman load
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', updateGuestNameFromHash);
+        } else {
+            updateGuestNameFromHash();
+        }
+
+        // Update juga saat hash berubah
+        window.addEventListener('hashchange', updateGuestNameFromHash);
+    })();
     </script>
   </body>
 </html>
