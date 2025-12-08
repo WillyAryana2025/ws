@@ -6293,7 +6293,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 </div>
                 <!-- ganti foto kartu check in -->
                 <div class="photo-section">
-                    <img src="https://i.pinimg.com/736x/5d/e7/5f/5de75fc02177e3093d6775eb98a566f2.jpg" alt="Willy & Sisi" class="wedding-photo">
+                    <img src="download.jfif" alt="Willy & Sisi" class="wedding-photo">
                     <div class="photo-overlay">
                         <p class="wedding-subtitle">The Wedding Of</p>
                         <h1 class="wedding-title">Willy & Sisi</h1>
@@ -6414,11 +6414,11 @@ document.addEventListener("DOMContentLoaded", function() {
         if (downloadBtn) {
             downloadBtn.addEventListener('click', function() {
                 if (cardContent && typeof html2canvas !== 'undefined') {
-                    html2canvas(cardContent.querySelector('.invitation-card'), { useCORS: true, scale: 2 })
+                    html2canvas(cardContent.querySelector('.invitation-card'), { allowTaint: true, scale: 2 })
                         .then(canvas => {
-                            const guestName = getGuestNameFromUrl();
+
                             const link = document.createElement('a');
-                            link.download = `e-Invitation - ${guestName}.png`;
+                            link.download = 'E-Inv_Willy & Sisi.png';
                             link.href = canvas.toDataURL('image/png');
                             link.click();
         });
